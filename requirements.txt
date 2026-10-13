@@ -1,0 +1,10 @@
+deepagents==0.7.24
+streamlit>=1.36.0
+pandas>=2.2.0
+plotly>=5.22.0
+python-dotenv>=1.2.0
+pytest>=8.0.0
+langchain>=1.4.5
+langgraph>=1.2.15
+langchain-google-genai>=4.4.1
+langsmith>=0.14.8
