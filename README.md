@@ -2,6 +2,11 @@
 
 An end-to-end LangChain Deep Agents portfolio app for analyzing uploaded CSV files with a Streamlit interface, profiling, visualizations, and downloadable reports.
 
+## Application Demo
+
+![Application Demo](<img width="1281" height="719" alt="agent analysis 2" src="https://github.com/user-attachments/assets/b264c5f5-990e-4c17-b48b-76dcf2554c67" />
+)
+
 ## Overview
 
 This project turns the official Deep Agents data analysis tutorial into a production-oriented portfolio app. It accepts a user-uploaded CSV, validates and profiles it, and lets a model-backed Deep Agent answer natural-language questions about the dataset.
