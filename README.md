@@ -4,7 +4,9 @@ An end-to-end LangChain Deep Agents portfolio app for analyzing uploaded CSV fil
 
 ## Application Demo
 
-<img src="<img width="1281" height="719" alt="agent analysis 2" src="https://github.com/user-attachments/assets/29357203-4a4c-4874-a312-9aca166b1c6d" />" alt="Application Demo" width="800"/>
+<p align="center">
+  <img src="./agent-analysis.gif" alt="Application Demo" width="800"/>
+</p>
 
 ## Overview
 
